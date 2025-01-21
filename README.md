@@ -34,6 +34,15 @@ Your site is live at https://thilaksagarn.github.io/Google-Spreadsheet/
 | **Stack (`Undo/Redo`)** | Implements Undo/Redo functionality | Maintains previous states of the spreadsheet, allowing users to revert changes. |
 
 ---
+## 📝 Usage
+1. Enter data in the cells just like in Google Sheets.
+2. Use the toolbar for formatting (bold, italics, color).
+3. Perform calculations by clicking mathematical functions.
+4. Apply Data Quality Functions.
+5. Click the "Generate Chart" button to create a visual representation of selected data.
+6. Save your spreadsheet as an Excel file using the "Save" button.
+7. Load a previously saved file using the "Load" button.
+   
 ## 📦 Installation  
 1. Clone the repository:  
    ```bash
