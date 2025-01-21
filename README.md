@@ -1,7 +1,7 @@
 # Web Application Mimicking Google Sheets  
 A web-based spreadsheet application built using **HTML, CSS, and JavaScript** that provides functionalities similar to Google Sheets, including data entry, formatting, mathematical calculations, and file operations.
 
-Your site is live at https://thilaksagarn.github.io/Google-Spreadsheet/
+Our site is live at https://thilaksagarn.github.io/Google-Spreadsheet/
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/b8e4a0a7-e878-452b-81e8-637f80dddb78)
 
